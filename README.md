@@ -1,6 +1,6 @@
 Reversed Binary
 ============
-URL: http://www.spotify.com/es/jobs/tech/reversebinary/
+URL: http://www.spotify.com/se/jobs/tech/reversed-binary/
 
 Problem ID: reversebinary
 
